@@ -1,2 +1,2 @@
 # Blockchain-Fundamentals
-simple projects of Blockchain protocol
+simple project of Bitcoin-Blockchain protocol
